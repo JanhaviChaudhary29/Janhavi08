@@ -1,0 +1,19 @@
+This project focuses on predicting employee salaries using machine learning regression techniques. Salary prediction is an important application in HR analytics, helping organizations maintain fair compensation structures and make data-driven decisions. 
+Janhavi_Salary Prediction Using Machine Learning Regression (LBS).pptx None
+The study aims to solve common organizational problems such as salary inconsistencies, bias in compensation decisions, and difficulty predicting future salary growth. To address these issues, a machine learning model is developed to estimate salaries based on key employee factors. 
+Janhavi_Salary Prediction Using Machine Learning Regression (LBS).pptx None
+The project analyzes three major variables that influence salary:
+Experience
+Skill Score
+Projects Completed
+Data visualization techniques such as graphs and scatter plots are used to identify patterns, correlations, and trends between these variables and salary growth. The analysis shows a positive relationship between experience and salary, meaning employees with more experience tend to earn higher salaries. Similarly, higher skill scores and a greater number of completed projects are associated with increased compensation. 
+Janhavi_Salary Prediction Using Machine Learning Regression (LBS).pptx None
+To predict salary, three machine learning models are implemented:
+Linear Regression – identifies a straight-line relationship between variables and salary.
+Random Forest Regression – combines multiple decision trees to improve prediction accuracy.
+Polynomial Regression – captures more complex relationships between variables. 
+Janhavi_Salary Prediction Using Machine Learning Regression (LBS).pptx None
+Model performance is evaluated using R² Score and Mean Absolute Error (MAE). The results show that Random Forest Regression performs better than Linear Regression, with an R² score of 0.96 compared to 0.91, indicating higher prediction accuracy. 
+Janhavi_Salary Prediction Using Machine Learning Regression (LBS).pptx None
+Overall, the project concludes that experience, skills, and project performance significantly influence employee salary. Machine learning models can help organizations make more accurate, fair, and data-driven salary decisions, improving HR planning and compensation management.
+https://colab.research.google.com/drive/1ldKKVe4XcYP2BpZORUCbV9jmixu7WRbp?usp=sharing
